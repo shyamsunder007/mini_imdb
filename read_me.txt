@@ -12,7 +12,7 @@ It has the additoinal features such as:-
 
 For Setup Execute the following commands:-
 
-git clone https://github.com/shyamsunder007/Cloud_Django.git
+git clone https://github.com/shyamsunder007/mini_imdb.git
 cd mini_imdb
 pip install -r requirements.txt
 python manage.py makemigrations
